@@ -1,0 +1,6 @@
+,XGBoost Dynamic Model,Benchmark 1: Static 60/40,Benchmark 2: Equal-Weight (1/N),Benchmark 3: 100% SPY
+Annualized Return (%),19.3114,14.2795,18.1,20.8978
+Annualized Volatility (%),10.823,9.7896,11.1962,15.3042
+Sharpe Ratio (Rf=4%),1.4147,1.05,1.2594,1.1041
+Sortino Ratio,1.7409,1.4633,1.7378,1.4572
+Max Drawdown (%),-12.7775,-11.5725,-13.3715,-19.209
